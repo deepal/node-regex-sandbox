@@ -1,0 +1,26 @@
+{
+  "name": "regex-sandbox",
+  "version": "1.0.0",
+  "description": "A wrapper around NodeJS native RegExp, providing protection against Catestrophic Backtracking",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dpjayasekara/node-regex-sandbox.git"
+  },
+  "keywords": [
+    "RegExp",
+    "ReDoS",
+    "Backtracking",
+    "Security",
+    "DoS"
+  ],
+  "author": "Deepal Jayasekara <dpjayasekara@gmail.com> (https://jsblog.insiderattack.net)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dpjayasekara/node-regex-sandbox/issues"
+  },
+  "homepage": "https://github.com/dpjayasekara/node-regex-sandbox#readme"
+}
